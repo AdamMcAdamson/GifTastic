@@ -1,0 +1,60 @@
+body {
+	background-color: #ddd; 
+}
+
+button {
+	box-sizing: border-box;
+	padding: 10px;
+	margin: 3px;
+	font-size: 16px;
+	background-color: #009CCA;
+	text-decoration: none;
+	border: none;
+	color: white;
+	border-radius: 6px;
+}
+
+
+button:hover {
+	background-color: #008CBA;
+}
+
+#buttons-div{
+}
+
+#topic-form {
+	float: right;
+}
+
+#form-label {
+	display: block;
+	padding-bottom: 4px;
+	font-size: 18px;
+}
+
+#topic-input {
+	width: 400px;
+	font-size: 16px;
+	margin-right: 20px;
+}
+
+#submit-button {
+	box-sizing: border-box;
+	padding: 8px 12px;
+	margin-top: 6px;
+	font-size: 16px;
+	background-color: #009CCA;
+	text-decoration: none;
+	border: none;
+	color: white;
+	border-radius: 6px;
+}
+
+#submit-button:hover {
+	background-color: #008CBA;
+}
+
+.image-div {
+	display: inline-block;
+	margin: 0 10px;
+}
